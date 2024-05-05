@@ -1,12 +1,30 @@
 # Time Displayer
 
-<a href="https://play.google.com/store/apps/details?id=com.sudosnow.time_displayer_lite" target="_blank">
-  <img src="https://i.imgur.com/T9HnFlW.png" height="80"/>
-</a>
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.sudosnow.time_displayer_lite" target="_blank">
+        <img src="https://i.imgur.com/T9HnFlW.png" height="80"/>
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <a href="https://time-displayer-lite.web.app" target="_blank" style="margin-left: 10px;">
+       <p>website</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## What does it do?
 
-Time displayer is a simple app that displays the time in both landscape and portrait orientations.
+Time Displayer is a simple cross-platform app that displays the time in both landscape and portrait orientations. Currently, it is deployed on Google Play and as a website.
 
 
 The option menu can be used to add, remove, or modify layout components.
